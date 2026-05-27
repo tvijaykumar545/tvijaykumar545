@@ -66,17 +66,6 @@
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://medium.com/" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/" target="_blank">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=for-the-badge&logo=youtube&label=YouTube&color=FF0000" />
-</a>
 
 </div>
 
