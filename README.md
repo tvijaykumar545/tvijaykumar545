@@ -84,13 +84,13 @@
 
 # 📈 GitHub Analytics
 
-<div align="center">
+# <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tvijaykumar545&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+# <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tvijaykumar545&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvijaykumar545&layout=compact&theme=tokyonight&hide_border=true" />
+# <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvijaykumar545&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+# </div>
 
 <div align="center">
 
